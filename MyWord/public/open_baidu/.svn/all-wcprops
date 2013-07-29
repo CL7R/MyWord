@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKCircle.h
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKMultiPoint.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKAnnotationView.h
+END
+BMKSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKSearch.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKGeocodeType.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKUserLocation.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKMapView.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKMapManager.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKGeneralDelegate.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPinAnnotationView.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKOverlayView.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKOfflineMap.h
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKOverlay.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKOfflineMapType.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPolygonView.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKVersion.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPolylineView.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKRouteSearchType.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPolygon.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKOverlayPathView.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKGeometry.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKPolyline.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMKCircleView.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/carshare/!svn/ver/1094/trunk/dbc2.3/dbc2.3/public/open_baidu/BMapKit.h
+END
