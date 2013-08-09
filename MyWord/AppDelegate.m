@@ -78,5 +78,7 @@
     [data initData];
     //初始化样式
     [PublicStyle initStyle:STYLE_1];
+    //test
+    //test
 }
 @end
